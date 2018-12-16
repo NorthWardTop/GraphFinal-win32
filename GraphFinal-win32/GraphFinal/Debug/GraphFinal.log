@@ -1,0 +1,14 @@
+﻿生成启动时间为 2018/12/13 15:44:01。
+     1>项目“F:\VS\学校作业\GraphFinal\GraphFinal\GraphFinal.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\GraphFinal.res" GraphFinal.rc 
+       Link:
+         D:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\VS\学校作业\GraphFinal\Debug\GraphFinal.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\VS\学校作业\GraphFinal\Debug\GraphFinal.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\VS\学校作业\GraphFinal\Debug\GraphFinal.lib" /MACHINE:X86 Debug\GraphFinal.res
+         Debug\GraphFinal.obj
+         Debug\stdafx.obj
+         GraphFinal.vcxproj -> F:\VS\学校作业\GraphFinal\Debug\GraphFinal.exe
+     1>已完成生成项目“F:\VS\学校作业\GraphFinal\GraphFinal\GraphFinal.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.53

@@ -1,0 +1,64 @@
+﻿生成启动时间为 2018/12/13 16:57:20。
+     1>项目“F:\VS\学校作业\GraphFinal\GraphFinal\GraphFinal.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\GraphFinal.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GraphFinal.cpp
+         GraphFinal.cpp
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(30): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(130): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(131): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(231): warning C4305: “初始化”: 从“double”到“float”截断
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(238): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(239): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(262): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(264): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(265): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(267): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(273): warning C4305: “初始化”: 从“double”到“float”截断
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(282): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(283): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(290): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(291): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(312): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(313): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(314): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(331): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(332): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(333): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(334): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(363): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(364): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(365): warning C4305: “+=”: 从“double”到“float”截断
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(369): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(380): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(381): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(382): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(383): warning C4305: “+=”: 从“double”到“float”截断
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(387): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(396): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(397): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(398): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(399): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(400): warning C4305: “+=”: 从“double”到“float”截断
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(404): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(421): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(423): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(466): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(467): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(531): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(532): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(533): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(534): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>f:\vs\学校作业\graphfinal\graphfinal\GraphFinal.h(536): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+       Link:
+         D:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\VS\学校作业\GraphFinal\Release\GraphFinal.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\VS\学校作业\GraphFinal\Release\GraphFinal.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\VS\学校作业\GraphFinal\Release\GraphFinal.lib" /MACHINE:X86 /SAFESEH Release\GraphFinal.res
+         Release\GraphFinal.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         GraphFinal.vcxproj -> F:\VS\学校作业\GraphFinal\Release\GraphFinal.exe
+     1>已完成生成项目“F:\VS\学校作业\GraphFinal\GraphFinal\GraphFinal.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.68
