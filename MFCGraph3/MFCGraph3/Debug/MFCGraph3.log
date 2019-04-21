@@ -1,0 +1,28 @@
+﻿生成启动时间为 2018/12/12 21:09:45。
+     1>项目“F:\VS\学校作业\MFCGraph3\MFCGraph3\MFCGraph3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\MFCGraph3.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCGraph3.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MFCGraph3.cpp MFCGraph3Doc.cpp MFCGraph3View.cpp MainFrm.cpp
+         MFCGraph3View.cpp
+     1>f:\vs\学校作业\mfcgraph3\mfcgraph3\mfcgraph3view.cpp(133): error C2065: “stack”: 未声明的标识符
+     1>f:\vs\学校作业\mfcgraph3\mfcgraph3\mfcgraph3view.cpp(133): error C2275: “CPoint”: 将此类型用作表达式非法
+                 d:\program files\vc\atlmfc\include\atltypes.h(74) : 参见“CPoint”的声明
+     1>f:\vs\学校作业\mfcgraph3\mfcgraph3\mfcgraph3view.cpp(133): error C2065: “s”: 未声明的标识符
+     1>f:\vs\学校作业\mfcgraph3\mfcgraph3\mfcgraph3view.cpp(135): error C2065: “s”: 未声明的标识符
+     1>f:\vs\学校作业\mfcgraph3\mfcgraph3\mfcgraph3view.cpp(135): error C2228: “.push”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>f:\vs\学校作业\mfcgraph3\mfcgraph3\mfcgraph3view.cpp(136): error C2065: “s”: 未声明的标识符
+     1>f:\vs\学校作业\mfcgraph3\mfcgraph3\mfcgraph3view.cpp(136): error C2228: “.empty”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>f:\vs\学校作业\mfcgraph3\mfcgraph3\mfcgraph3view.cpp(136): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         MainFrm.cpp
+         MFCGraph3Doc.cpp
+         MFCGraph3.cpp
+     1>已完成生成项目“F:\VS\学校作业\MFCGraph3\MFCGraph3\MFCGraph3.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.03
